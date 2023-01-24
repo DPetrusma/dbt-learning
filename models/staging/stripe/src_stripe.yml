@@ -5,4 +5,4 @@ sources:
     schema: default
     tables:
       - name: payments
-      - identifier: stripe_payments
+        identifier: stripe_payments
